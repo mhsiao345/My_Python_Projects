@@ -1,0 +1,5 @@
+['0Name', 'AccountType', 'Amount']
+['1Default', 'Savings', '225']
+['Bobby', 'Business', '656']
+['Jane Doe', 'Business', '555']
+['Mary Jane', 'Checking', '66']
